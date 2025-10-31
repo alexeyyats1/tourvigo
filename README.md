@@ -1,2 +1,0 @@
-# tourvigo
-Chat-bot AI
