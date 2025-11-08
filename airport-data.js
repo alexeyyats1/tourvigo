@@ -1,4 +1,3 @@
-<script>
 // База данных аэропортов и городов
 window.AIRPORT_DATABASE = {
     // Россия
@@ -346,5 +345,3 @@ window.COUNTRY_CODES = {
     "Ватикан": "vatican",
     "Лихтенштейн": "liechtenstein"
 };
-</script>
-
